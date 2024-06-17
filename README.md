@@ -59,7 +59,4 @@ print("Percentage of Arrests: ",Arrest_Percentage)
       -Risk Assessment: Assess the risk of different areas and times for specific types of crimes to help in resource allocation for law enforcement.
     16. The sample dataset is split into test and train datasets and the various classification model such as LogisticRegression(),KNeighborsClassifier(),SVC(),DecisionTreeClassifier() and their accuracy_score,precision_score,recall_score,f1_score are calculated.
 
-# A Power BI file having the crime distribution graph is also added to this repository
-
-
 
